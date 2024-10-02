@@ -1,4 +1,4 @@
-# The-Relationship-between-Medical-Predictors-and-Diabetes-Illness
+# The Relationship between Medical Predictors and Diabetes Illness
 
 Objectives:
 
